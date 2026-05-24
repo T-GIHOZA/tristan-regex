@@ -1,0 +1,31 @@
+Customer support log - Imported from external API
+
+Contact users:
+- jane.doe@alueducation.com
+- mike_92@alumni.alueducation.com
+- student.test@si.alueducation.com
+- fake@@alueducation..com
+- admin<script>@evil.com
+
+Payments:
+Visa: 4539 1488 0343 6467
+Mastercard: 5555-5555-5555-4444
+Invalid CC: 1234 5678 9999 0000
+
+Websites:
+https://www.alueducation.com
+http://example.org/profile?id=22
+javascript:alert('XSS')
+
+Phone numbers:
++250 788 123 456
+(202) 555-0198
+123-ABCD-999
+
+Random unsafe payloads:
+DROP TABLE users;
+<script>alert("hack")</script>
+
+Extra emails:
+contact@company.com
+test.user+dev@gmail.com

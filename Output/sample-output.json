@@ -1,0 +1,37 @@
+{
+    "emails": [
+        "jane.doe@alueducation.com",
+        "mike_92@alumni.alueducation.com",
+        "student.test@si.alueducation.com",
+        "contact@company.com",
+        "test.user+dev@gmail.com"
+    ],
+    "alu_official_emails": [
+        "jane.doe@alueducation.com"
+    ],
+    "alu_alumni_emails": [
+        "mike_92@alumni.alueducation.com"
+    ],
+    "alu_si_emails": [
+        "student.test@si.alueducation.com"
+    ],
+    "urls": [
+        "https://www.alueducation.com",
+        "http://example.org/profile?id=22"
+    ],
+    "phone_numbers": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "+250 788",
+        "(202)"
+    ],
+    "credit_cards_masked": [
+        "**** **** **** 6467",
+        "**** **** **** 4444",
+        "**** **** **** 0000"
+    ]
+}
